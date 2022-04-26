@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "dependencies": {
     "debug": "2.6.8",
-    "ejs": "^2.5.6",
+    "ejs": "^3.1.7",
     "hoek": "^4.0.0",
     "npm": "^6.4.1",
     "streaming-json-stringify": "^3.1.0"
